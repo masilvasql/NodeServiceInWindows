@@ -1,0 +1,18 @@
+2018-11-30 23:43:51 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\buscaNode\node_modules\node-windows\lib\wrapper.js --file C:\buscaNode\main.js --log "serverTeste wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-11-30 23:43:51 - Started 14684
+2018-11-30 23:44:29 - Stopping serverteste.exe
+2018-11-30 23:44:29 - ProcessKill 14684
+2018-11-30 23:44:29 - Found child process: 17368 Name: conhost.exe
+2018-11-30 23:44:29 - Found child process: 12840 Name: node.exe
+2018-11-30 23:44:29 - Stopping process 17368
+2018-11-30 23:44:29 - Send SIGINT 17368
+2018-11-30 23:44:29 - SIGINT to 17368 failed - Killing as fallback
+2018-11-30 23:44:29 - Stopping process 12840
+2018-11-30 23:44:29 - Send SIGINT 12840
+2018-11-30 23:44:29 - SIGINT to 12840 failed - Killing as fallback
+2018-11-30 23:44:29 - Stopping process 14684
+2018-11-30 23:44:29 - Send SIGINT 14684
+2018-11-30 23:44:29 - SIGINT to 14684 failed - Killing as fallback
+2018-11-30 23:44:29 - Finished serverteste.exe
+2018-11-30 23:44:31 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\buscaNode\node_modules\node-windows\lib\wrapper.js --file C:\buscaNode\main.js --log "serverTeste wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-11-30 23:44:31 - Started 15196

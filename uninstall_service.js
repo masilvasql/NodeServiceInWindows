@@ -14,4 +14,4 @@ svc.uninstall()
 
 //executar no terminal o comando a baixo
 
-// >>>>> node unistall_service.js <<<<<<
+// >>>>> node uninstall_service.js <<<<<<
